@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Employees/ProductManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Common/FeedBacks.cs" Line="5" Column="83" />
+      <File FileName="Assets/Scripts/Common/Utils.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Common/TaskTypes.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Common/Tags.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Common/Singleton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Common/Levels.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Tasks/TasksController.cs" Line="85" Column="28" />
+      <File FileName="Assets/Scripts/Employees/ProductManager.cs" Line="29" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
